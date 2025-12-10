@@ -31,7 +31,7 @@ Please follow these steps exactly to set up the software on your computer.
 1.  **Extract the ZIP folder** to your computer By Using winrar 64 bit.
 2.  Open the folder named **"video downloader"**.
 3.  Double-click the file named **`build_exe.bat`** to install required files.
-    * *A black window may appear. Please wait for the process to finish and close automatically.*
+    * *A black window may appear. Please wait for the process to finish and close automatically. if not close automatically press any key of your keyboard*
 
 ### Step 2: Locate the App
 4.  Open the newly created folder named **`build`**.
