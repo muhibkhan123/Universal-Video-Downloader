@@ -39,7 +39,7 @@ Please follow these steps exactly to set up the software on your computer.
 6.  Look for the file with the **YELLOW LOGO** (e.g., `Universal Video Downloader`).
 
 ### Step 3: Run
-7.  **Double-click the app** to start.
+7.  **Double-click the Universal Video Downloader** to start.
 
 > **⚠️ IMPORTANT NOTE:** If the software does not open immediately, **PLEASE WAIT 1-2 MINUTES**. The app needs time to unpack its internal libraries and initialize on your system. This is normal behavior.
 
