@@ -49,7 +49,7 @@ Please follow these steps exactly to set up the software on your computer.
 
 To avoid navigating folders every time:
 
-1.  Right-click on the main app file (Yellow Logo) inside the `dist` folder.
+1.  Right-click on the main app file (Yellow Logo) inside the `dist` folder.Name is Universal Video Downloader.
 2.  Select **Send to** > **Desktop (create shortcut)**.
 3.  You can now launch "Universal Video Downloader" directly from your desktop!
 
