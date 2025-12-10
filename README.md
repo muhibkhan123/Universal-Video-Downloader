@@ -36,7 +36,7 @@ Please follow these steps exactly to set up the software on your computer.
 ### Step 2: Locate the App
 4.  Open the newly created folder named **`build`**.
 5.  Open the folder named **`dist`**.
-6.  Look for the file with the **YELLOW LOGO** (e.g., `Universal Video Downloader` or `Downloader`).
+6.  Look for the file with the **YELLOW LOGO** (e.g., `Universal Video Downloader`).
 
 ### Step 3: Run
 7.  **Double-click the app** to start.
